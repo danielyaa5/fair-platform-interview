@@ -1,0 +1,19 @@
+{
+  "name": "fair-platform-interview",
+  "version": "1.0.0",
+  "description": "Interview for Fair, platform app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielyaa5/fair-platform-interview.git"
+  },
+  "author": "Daniel Yakobian <dontmesswithabeer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielyaa5/fair-platform-interview/issues"
+  },
+  "homepage": "https://github.com/danielyaa5/fair-platform-interview#readme"
+}
